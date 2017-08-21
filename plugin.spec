@@ -9,8 +9,9 @@ subparsers:
               options:
                   option1:
                       type: Value
-                      help: Simple option with defult value
+                      help: Simple option with default value
                       default: foo
-                  bool-flag:
+                  flag:
                       type: Bool
+                      default: False
 
