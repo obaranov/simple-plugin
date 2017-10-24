@@ -1,3 +1,4 @@
+# pluging type can be install,provision,other
 plugin_type: other
 subparsers:
     # the actual name of the plugin
